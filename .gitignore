@@ -1,0 +1,4 @@
+node_modules/
+
+# Expo mobile apps
+**/.expo/**
